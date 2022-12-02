@@ -36,3 +36,6 @@
 18. POST '/sample/file/upload', 'SignatureController@upload_file_sample'
 19. GET '/sample/preview/{signature_file_id}', 'SignatureController@sample_signature_preview'
 20. GET '/pdf/edit/{signature_id}', 'SignatureController@pdf_editor'
+
+### Auth API Documentation
+Link : https://documenter.getpostman.com/view/18604848/2s8YzL56yX
